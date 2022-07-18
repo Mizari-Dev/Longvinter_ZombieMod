@@ -147,7 +147,6 @@ ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
 0,/Engine/Maps/Templates/Thumbnails/Default,Texture2D,Hard,161280,None
 0,/Engine/Maps/Templates/Thumbnails/TimeOfDay,Texture2D,Hard,161284,None
 0,/Engine/Maps/Templates/Thumbnails/VR-Basic,Texture2D,Hard,161282,None
-0,/Engine/MapTemplates/SM_Template_Map_Floor,StaticMesh,Hard,15508,None
 0,/Engine/MobileResources/HUD/AnalogHat,Texture2D,Hard,2101,None
 0,/Engine/MobileResources/HUD/DefaultVirtualJoysticks,TouchInterface,Hard,2634,None
 0,/Engine/MobileResources/HUD/LeftVirtualJoystickOnly,TouchInterface,Hard,2057,None
@@ -180,6 +179,7 @@ ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
 0,/Engine/VREditor/TransformGizmo/TransformGizmoMaterial,Material,Hard,4976,None
 0,/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial,Material,Hard,7686,None
 0,/Engine/VREditor/TransformGizmo/Xray,Material,Hard,7426,None
+27,/Game/Mods/ZombieMod/Floor,StaticMesh,Hard,5078,None
 27,/Game/Mods/ZombieMod/M_Face,Material,Hard,20975,None
 27,/Game/Mods/ZombieMod/MI_Character_01,Material,Hard,10176,None
 27,/Game/Mods/ZombieMod/T_Character02,Texture2D,Hard,2797570,None
@@ -187,8 +187,8 @@ ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
 27,/Game/Mods/ZombieMod/zombie_model,SkeletalMesh,Hard,259716,None
 27,/Game/Mods/ZombieMod/zombie_model_PhysicsAsset,PhysicsAsset,Hard,3759,None
 27,/Game/Mods/ZombieMod/zombie_model_Skeleton,Skeleton,Hard,54180,None
-27,/Game/Mods/ZombieMod/ZombieMap,World,Hard,612232,None
-27,/Game/Mods/ZombieMod/ZombieMap_BuiltData,MapBuildDataRegistry,Hard,1786526,None
+27,/Game/Mods/ZombieMod/ZombieMap,World,Hard,611855,None
+27,/Game/Mods/ZombieMod/ZombieMap_BuiltData,MapBuildDataRegistry,Hard,1783299,None
 0,/MagicLeapPassableWorld/MagicLeapARPinInfoActor,Blueprint,Hard,28477,None
 0,/OculusVR/Materials/OculusMR_ChromaKey,Material,Hard,11030,None
 0,/OculusVR/Materials/OculusMR_OpaqueColoredMaterial,Material,Hard,4721,None
